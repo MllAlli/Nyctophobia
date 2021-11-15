@@ -1,0 +1,3 @@
+FirstPersomExampleMap ส่วนที่เกี่ยวกับเข็มทิศคือ Event tick กับ Event BeginPlay
+FirstPersomExampleMap อยู่ใน folder FirstPersonBP >> Maps
+widget เข็มทิศ, รูปเข็มทิศ อยู่ใน folder "CompassAsset"
