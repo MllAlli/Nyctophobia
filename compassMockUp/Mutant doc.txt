@@ -1,0 +1,3 @@
+Animation Mutant ทั้งหมดอยู่ใน folder AnimationCharacter
+file mutant model + texture อยู่ใน folder mutant
+Mock up mutant วิ่งตาม player + เข็มทิศ อยู่ใน folder Maps >> Map01
