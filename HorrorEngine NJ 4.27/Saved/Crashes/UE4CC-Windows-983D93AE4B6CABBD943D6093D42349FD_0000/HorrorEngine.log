@@ -1,0 +1,1228 @@
+﻿Log file open, 12/16/21 00:59:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HorrorEngine
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.326146
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.15-17.59.44:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.15-17.59.44:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.15-17.59.44:046][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.15-17.59.44:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.15-17.59.44:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.15-17.59.44:056][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.15-17.59.44:057][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.15-17.59.44:057][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.15-17.59.44:057][  0]LogHAL: Display: Platform has ~ 16 GB [17050832896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.15-17.59.44:057][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.15-17.59.44:057][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.15-17.59.44:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.15-17.59.44:058][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.15-17.59.44:059][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.15-17.59.44:059][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.15-17.59.44:059][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.15-17.59.44:059][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.15-17.59.44:059][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Config/Windows/Editor.ini]
+[2021.12.15-17.59.44:060][  0]LogInit: Computer: LAPTOP-VS4H7912
+[2021.12.15-17.59.44:060][  0]LogInit: User: Darkflame
+[2021.12.15-17.59.44:060][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.12.15-17.59.44:060][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.15-17.59.44:060][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.12.15-17.59.44:060][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.15-17.59.44:060][  0]LogMemory: Process Physical Memory: 147.79 MB used, 147.79 MB peak
+[2021.12.15-17.59.44:060][  0]LogMemory: Process Virtual Memory: 131.96 MB used, 131.96 MB peak
+[2021.12.15-17.59.44:060][  0]LogMemory: Physical Memory: 9019.73 MB used,  7241.21 MB free, 16260.94 MB total
+[2021.12.15-17.59.44:060][  0]LogMemory: Virtual Memory: 134211336.00 MB used,  6392.32 MB free, 134217728.00 MB total
+[2021.12.15-17.59.44:066][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.15-17.59.44:786][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.15-17.59.44:787][  0]LogInit: Using OS detected language (en-US).
+[2021.12.15-17.59.44:787][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.15-17.59.44:800][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.15-17.59.45:138][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.15-17.59.45:169][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.15-17.59.45:188][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.15-17.59.45:188][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.15-17.59.45:477][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.15-17.59.45:480][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.15-17.59.45:481][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.15-17.59.45:481][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.15-17.59.45:481][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.15-17.59.45:636][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.12.15-17.59.45:637][  0]LogD3D11RHI:       5980/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI:       0/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI:     DeviceId    : 1f11
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI:     SubSysId    : 8600103c
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2021.12.15-17.59.45:639][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.15-17.59.45:640][  0]LogD3D11RHI:     SharedSystemMemory : 8525416448 bytes
+[2021.12.15-17.59.45:640][  0]LogD3D11RHI:     AdapterLuid : 0 206205244
+[2021.12.15-17.59.45:647][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.15-17.59.45:647][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.15-17.59.45:647][  0]LogWindows: EnumDisplayDevices:
+[2021.12.15-17.59.45:647][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.12.15-17.59.45:647][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.12.15-17.59.45:648][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.12.15-17.59.45:648][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.12.15-17.59.45:648][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2021.12.15-17.59.45:648][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     DeviceId    : 1f11
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     SubSysId    : 8600103c
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     SharedSystemMemory : 8525416448 bytes
+[2021.12.15-17.59.45:648][  0]LogD3D11RHI:     AdapterLuid : 0 206205244
+[2021.12.15-17.59.45:721][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.15-17.59.45:722][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.15-17.59.45:722][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.15-17.59.45:756][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.12.15-17.59.45:803][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.15-17.59.46:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.15-17.59.46:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.15-17.59.46:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.15-17.59.46:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.15-17.59.46:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.15-17.59.46:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.15-17.59.46:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.15-17.59.46:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.15-17.59.46:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.15-17.59.46:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.15-17.59.46:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.15-17.59.46:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.15-17.59.46:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.15-17.59.46:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.15-17.59.46:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.15-17.59.46:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.15-17.59.46:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.15-17.59.46:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.15-17.59.46:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.15-17.59.46:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.15-17.59.46:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.15-17.59.46:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.15-17.59.46:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.15-17.59.46:373][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.15-17.59.46:384][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.15-17.59.46:430][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.15-17.59.46:476][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.15-17.59.46:476][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Intermediate/Shaders/WorkingDirectory/13540/).
+[2021.12.15-17.59.46:476][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Darkflame/AppData/Local/Temp/UnrealShaderWorkingDir/7572280E433E1DFAE411ABA8C46ACB70/'.
+[2021.12.15-17.59.46:476][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.15-17.59.46:476][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.15-17.59.46:476][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.15-17.59.47:339][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.15-17.59.47:428][  0]LogDerivedDataCache: Loaded boot cache 0.09s 94MB C:/Users/Darkflame/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.15-17.59.47:428][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Darkflame/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.15-17.59.47:428][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.15-17.59.47:428][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.15-17.59.47:428][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.15-17.59.47:428][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.15-17.59.47:446][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.15-17.59.47:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.15-17.59.47:446][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.15-17.59.47:462][  0]LogDerivedDataCache: Speed tests for C:/Users/Darkflame/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.12.15-17.59.47:462][  0]LogDerivedDataCache: Display: Performance to C:/Users/Darkflame/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=105.54MBs, RandomWriteSpeed=174.21MBs. Assigned SpeedClass 'Local'
+[2021.12.15-17.59.47:462][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Darkflame/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.15-17.59.47:463][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.15-17.59.47:463][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.15-17.59.47:512][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.15-17.59.47:514][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.15-17.59.47:549][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2021.12.15-17.59.47:875][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.15-17.59.47:875][  0]LogInit: Active device profile: [0000014BC8F7CF00][0000014BBB18F500 49] Windows
+[2021.12.15-17.59.47:875][  0]LogInit: Profiles: [0000014BC8F7CF00][0000014BBB18F500 49] Windows, [0000014BC8F46400][0000014BBB197680 49] WindowsNoEditor, [0000014BC8F7DF00][0000014BBB19B800 49] WindowsServer, [0000014BC8F45600][0000014BBB19F980 49] WindowsClient, [0000014BC8F7D000][0000014BBB875B00 49] IOS, [0000014BC8F47A00][0000014BBB87C100 49] iPadAir, [0000014BC8F7F300][0000014BBB880280 49] iPadAir2, [0000014BC8EF5300][0000014BBB888540 49] IPadPro, [0000014BC8EF5400][0000014BBB884580 49] iPadAir3, [0000014BC8F44B00][0000014BBB88C700 49] iPadAir4, [0000014BC8EF6100][0000014BBB890880 49] iPadMini2, [0000014BC8F47400][0000014BBB894A00 49] iPadMini3, [0000014BC8EF6C00][0000014BBB192B40 49] iPadMini4, [0000014BC8F46700][0000014BBB898C80 49] iPadMini5, [0000014BC8F24E00][0000014BBB8A0EC0 49] iPhone6, [0000014BC8F24F00][0000014BBB89CF00 49] iPodTouch6, [0000014BC8F7F700][0000014BBB8AD1C0 49] iPhone7, [0000014BC8F7E800][0000014BBB8A9200 49] iPodTouch7, [0000014BC8EF4C00][0000014BBB8B1380 49] iPhone5S, [0000014BC8F7D300][0000014BBB8B5500 49] iPhone6Plus, [0000014BC8F7C600][0000014BBB8B9680 49] iPhone6S, [0000014BC8F25300][0000014BBB8BD800 49] iPhone6SPlus, [0000014BC8F7CB00][0000014BBB8C1980 49] iPhone7Plus, [0000014BC8F25600][0000014BBB8C5B00 49] iPhoneSE, [0000014BC8F7CA00][0000014BBB8C8100 49] iPhone8, [0000014BC8F25200][0000014BC98D0280 49] iPhone8Plus, [0000014BC8EF6B00][0000014BC98D4400 49] iPhoneX, [0000014BC8F24C00][0000014BC98D8580 49] iPhoneXS, [0000014BC8EF7A00][0000014BC98DC700 49] iPhoneXSMax, [0000014BC8F27800][0000014BC98E0880 49] iPhoneXR, [0000014BC8EF4D00][0000014BC98E4A00 49] iPhone11, [0000014BC8F26600][0000014BC98E8B80 49] iPhone11Pro, [0000014BC8EF6900][0000014BC98ECD00 49] iPhone11ProMax, [0000014BC8F24200][0000014BBB8A4E40 49] iPhoneSE2, [0000014BC8EF4B00][0000014BC98F0F80 49] iPhone12Mini, [0000014BC8F26A00][0000014BC98F50C0 49] iPhone12, [0000014BC8EF6E00][0000014BC98FD240 49] iPhone12Pro, [0000014BC8F24A00][0000014BC99013C0 49] iPhone12ProMax, [0000014BC8EF7200][0000014BC9905540 49] iPadPro105, [0000014BC8F27600][0000014BC99096C0 49] iPadPro129, [0000014BC8EF6000][0000014BC990D840 49] iPadPro97, [0000014BC8F26000][0000014BC99119C0 49] iPadPro2_129, [0000014BC8EF6400][0000014BC9915B40 49] iPad5, [0000014BC8F25400][0000014BC9918140 49] iPad6, [0000014BC8EF5000][0000014BC991C2C0 49] iPad7, [0000014BC8F25700][0000014BC9920440 49] iPad8, [0000014BC8EF7C00][0000014BC99245C0 49] iPadPro11, [0000014BC8F25800][0000014BC9928740 49] iPadPro2_11, [0000014BC8EF4600][0000014BC992C8C0 49] iPadPro3_129, [0000014BC8F24D00][0000014BC9930A40 49] iPadPro4_129, [0000014BC8EF7100][0000014BC9934BC0 49] AppleTV, [0000014BC8F24800][0000014BC9938D40 49] AppleTV4K, [0000014BC8EF4500][0000014BC993CEC0 49] TVOS, [0000014BC8F24500][0000014BC98F9000 49] Mac, [0000014BC8EF4700][0000014BC9941140 49] MacClient, [0000014BC8F25500][0000014BC9945280 49] MacNoEditor, [0000014BC8EF5500][0000014BC99493C0 49] MacServer, [0000014BC8F26E00][0000014BC9951540 49] Linux, [0000014BC8EF4400][0000014BC99556C0 49] LinuxAArch64, [0000014BC8F25E00][0000014BC9959840 49] LinuxNoEditor, [0000014BC8EF5C00][0000014BC995D9C0 49] LinuxAArch64NoEditor, [0000014BC8F26900][0000014BC9961B40 49] LinuxClient, [0000014BC8EF6D00][0000014BC9964140 49] LinuxAArch64Client, [0000014BC8F24100][0000014BC99682C0 49] LinuxServer, [0000014BC8EF5E00][0000014BC996C440 49] LinuxAArch64Server, [0000014BC8F24B00][0000014BC99705C0 49] Android, [0000014BC8EF5A00][0000014BC9978740 49] Android_Low, [0000014BC8F26F00][0000014BC997C8C0 49] Android_Mid, [0000014BC8EF5100][0000014BC9980A40 49] Android_High, [0000014BC8F27000][0000014BC9984BC0 49] Android_Default, [0000014BC8EF5700][0000014BC9988D40 49] Android_Adreno4xx, [0000014BC8F25900][0000014BC998CEC0 49] Android_Adreno5xx_Low, [0000014BC8EF4A00][0000014BC9991040 49] Android_Adreno5xx, [0000014BC8F27400][0000014BC994D180 49] Android_Adreno6xx, [0000014BC8EF4E00][0000014BC99952C0 49] Android_Adreno6xx_Vulkan, [0000014BC8F27100][0000014BC9999400 49] Android_Mali_T6xx, [0000014BC8F7EF00][0000014BC999D540 49] Android_Mali_T7xx, [0000014BC8F44800][0000014BC99A56C0 49] Android_Mali_T8xx, [0000014BC8F7D200][0000014BC99C3840 49] Android_Mali_G71, [0000014BC8F44E00][0000014BC99C79C0 49] Android_Mali_G72, [0000014BC8F7D100][0000014BC99CBB40 49] Android_Mali_G72_Vulkan, [0000014BC8F46500][0000014BC99CE140 49] Android_Mali_G76, [0000014BC8F7D500][0000014BC99D22C0 49] Android_Mali_G76_Vulkan, [0000014BC8F46000][0000014BC99D6440 49] Android_Mali_G77, [0000014BC8F7FF00][0000014BC99DA5C0 49] Android_Mali_G77_Vulkan, [0000014BC8F45D00][0000014BC99DE740 49] Android_Mali_G78, [0000014BC8F7C300][0000014BC99E28C0 49] Android_Mali_G78_Vulkan, [0000014BC8F44400][0000014BC99E6A40 49] Android_Mali_G710, [0000014BC8F7F600][0000014BC99EABC0 49] Android_Mali_G710_Vulkan, [0000014BC8F47100][0000014BC99EED40 49] Android_Vulkan_SM5, [0000014BC8F7C900][0000014BC99F2EC0 49] Android_PowerVR_G6xxx, [0000014BC8F44A00][0000014BC99F7040 49] Android_PowerVR_GT7xxx, [0000014BC8F7CD00][0000014BC99FB1C0 49] Android_PowerVR_GE8xxx, [0000014BC8F47C00][0000014BC99FF340 49] Android_PowerVR_GM9xxx, [0000014BC8F7E300][0000014BC99A1480 49] Android_PowerVR_GM9xxx_Vulkan, [0000014BC8F45200][0000014BC9A035C0 49] Android_TegraK1, [0000014BC8F7EA00][0000014BC9A07700 49] Android_Unknown_Vulkan, [0000014BC8F47000][0000014BC9A0F880 49] Lumin, [0000014BC8F7DC00][0000014BC9A13A00 49] Lumin_Desktop, [0000014BC8F46E00][0000014BC9A17B80 49] HoloLens, 
+[2021.12.15-17.59.48:055][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.15-17.59.48:055][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.15-17.59.48:055][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.15-17.59.48:055][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.15-17.59.48:056][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.15-17.59.48:076][  0]LogNetVersion: HorrorEngine 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1306834812)
+[2021.12.15-17.59.48:626][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.15-17.59.48:693][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.15-17.59.48:701][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.12.15-17.59.48:701][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2021.12.15-17.59.48:701][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.15-17.59.49:101][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EA8991C34B4DE091E8700294797C1A20 | Instance: 49C478EB443FF9335A1B30BB8E653006 (LAPTOP-VS4H7912-13540).
+[2021.12.15-17.59.49:279][  0]LogPython: Using Python 3.7.7
+[2021.12.15-17.59.49:881][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.15-17.59.49:887][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.15-17.59.50:084][  0]SourceControl: Source control is disabled
+[2021.12.15-17.59.50:084][  0]SourceControl: Source control is disabled
+[2021.12.15-17.59.50:097][  0]SourceControl: Source control is disabled
+[2021.12.15-17.59.50:101][  0]SourceControl: Source control is disabled
+[2021.12.15-17.59.50:113][  0]SourceControl: Source control is disabled
+[2021.12.15-17.59.50:119][  0]LogUProjectInfo: Found projects:
+[2021.12.15-17.59.50:456][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.15-17.59.50:493][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.15-17.59.50:520][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.15-17.59.50:520][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.15-17.59.50:679][  0]LogCollectionManager: Loaded 0 collections in 0.001854 seconds
+[2021.12.15-17.59.50:709][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Saved/Collections/' took 0.00s
+[2021.12.15-17.59.50:709][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Content/Developers/Darkflame/Collections/' took 0.00s
+[2021.12.15-17.59.50:709][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Content/Collections/' took 0.00s
+[2021.12.15-17.59.50:709][  0]LogOcInput: OculusInput pre-init called
+[2021.12.15-17.59.51:032][  0]LogEngine: Initializing Engine...
+[2021.12.15-17.59.51:040][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.15-17.59.51:040][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.15-17.59.51:040][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.15-17.59.51:043][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.12.15-17.59.51:194][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.15-17.59.51:207][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.15-17.59.51:215][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.15-17.59.51:220][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.15-17.59.51:221][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.15-17.59.51:222][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.15-17.59.51:222][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.15-17.59.51:222][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-17.59.51:222][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-17.59.51:222][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-17.59.51:222][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-17.59.51:222][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-17.59.51:222][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-17.59.51:222][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-17.59.51:222][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-17.59.51:222][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-17.59.51:222][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-17.59.51:222][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-17.59.51:222][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-17.59.51:239][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-17.59.51:239][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-17.59.51:440][  0]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2021.12.15-17.59.51:441][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-17.59.51:444][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-17.59.51:444][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-17.59.51:445][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-17.59.51:445][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-17.59.51:445][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-17.59.51:446][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-17.59.51:446][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-17.59.51:446][  0]LogInit: FAudioDevice initialized.
+[2021.12.15-17.59.51:447][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.15-17.59.51:447][  0]LogNetVersion: Set ProjectVersion to 2. Version Checksum will be recalculated on next use.
+[2021.12.15-17.59.51:499][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/Darkflame/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.15-17.59.51:499][  0]LogInit: Texture streaming: Enabled
+[2021.12.15-17.59.51:514][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2021.12.15-17.59.51:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.15-17.59.51:519][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.15-17.59.51:522][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.15-17.59.51:555][  0]LogInit: Transaction tracking system initialized
+[2021.12.15-17.59.51:585][  0]BlueprintLog: New page: Editor Load
+[2021.12.15-17.59.51:674][  0]LocalizationService: Localization service is disabled
+[2021.12.15-17.59.51:715][  0]TimingProfiler: Initialize
+[2021.12.15-17.59.51:716][  0]TimingProfiler: OnSessionChanged
+[2021.12.15-17.59.51:716][  0]LoadingProfiler: Initialize
+[2021.12.15-17.59.51:716][  0]LoadingProfiler: OnSessionChanged
+[2021.12.15-17.59.51:716][  0]NetworkingProfiler: Initialize
+[2021.12.15-17.59.51:716][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.15-17.59.51:716][  0]MemoryProfiler: Initialize
+[2021.12.15-17.59.51:716][  0]MemoryProfiler: OnSessionChanged
+[2021.12.15-17.59.51:900][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.15-17.59.51:900][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.15-17.59.52:162][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Content/' took 0.02s
+[2021.12.15-17.59.52:409][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.15-17.59.52:414][  0]SourceControl: Source control is disabled
+[2021.12.15-17.59.52:414][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.013
+[2021.12.15-17.59.52:414][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Content/HorrorEngine/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-17.59.52:415][  0]LightingResults: New page: Lighting Build
+[2021.12.15-17.59.52:417][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-17.59.52:417][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-17.59.52:418][  0]MapCheck: New page: Map Check
+[2021.12.15-17.59.52:418][  0]LightingResults: New page: Lighting Build
+[2021.12.15-17.59.52:425][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-17.59.52:429][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.12.15-17.59.52:598][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/KeycardControl.KeycardControl_C:KeycardControl_GEN_VARIABLE because its class does not exist
+[2021.12.15-17.59.53:029][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/LadderAdvanced.LadderAdvanced_C:LadderBottom_GEN_VARIABLE because its class does not exist
+[2021.12.15-17.59.53:029][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/LadderAdvanced.LadderAdvanced_C:LadderConnect_GEN_VARIABLE because its class does not exist
+[2021.12.15-17.59.53:029][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/LadderAdvanced.LadderAdvanced_C:LadderMiddle_GEN_VARIABLE because its class does not exist
+[2021.12.15-17.59.53:029][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/LadderAdvanced.LadderAdvanced_C:LadderTop_GEN_VARIABLE because its class does not exist
+[2021.12.15-17.59.54:531][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] Input pin  Method  specifying non-default value no longer exists on node  Set members in PostProcessSettings . Please refresh node or reset pin to default value to remove pin.
+[2021.12.15-17.59.58:884][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix': Can't find file.
+[2021.12.15-17.59.58:884][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix': Can't find file.
+[2021.12.15-17.59.58:885][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix.HorrorEventFix'
+[2021.12.15-17.59.59:575][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix': Can't find file.
+[2021.12.15-17.59.59:575][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix': Can't find file.
+[2021.12.15-17.59.59:575][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix.HorrorEventsMasterFix'
+[2021.12.15-18.00.00:615][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2021.12.15-18.00.00:616][  0]LogAIModule: Creating AISystem for world Overview
+[2021.12.15-18.00.00:939][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2021.12.15-18.00.00:939][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2021.12.15-18.00.00:939][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2021.12.15-18.00.00:939][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2021.12.15-18.00.00:939][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2021.12.15-18.00.00:939][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2021.12.15-18.00.00:939][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-18.00.01:046][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.12.15-18.00.01:050][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-18.00.01:051][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2021.12.15-18.00.01:051][  0]LogFileHelpers: Loading map 'Overview' took 8.637
+[2021.12.15-18.00.01:054][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.653
+[2021.12.15-18.00.01:180][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.00.01:187][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.00.01:193][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.00.01:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.00.01:218][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0109 seconds. Added 3822 classes and 928 folders.
+[2021.12.15-18.00.01:223][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.15-18.00.01:227][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.15-18.00.01:227][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:227][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-18.00.01:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.15-18.00.01:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000867
+[2021.12.15-18.00.01:231][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.15-18.00.01:231][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:231][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.15-18.00.01:231][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:231][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.15-18.00.01:231][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.12.15-18.00.01:233][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.15-18.00.01:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.15-18.00.01:233][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:233][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.15-18.00.01:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.12.15-18.00.01:234][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-18.00.01:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-18.00.01:234][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:234][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.15-18.00.01:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.12.15-18.00.01:236][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.15-18.00.01:236][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:236][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.15-18.00.01:236][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:236][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.15-18.00.01:236][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.15-18.00.01:238][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.15-18.00.01:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.15-18.00.01:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.15-18.00.01:238][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.12.15-18.00.01:240][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.15-18.00.01:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.15-18.00.01:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.15-18.00.01:240][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.15-18.00.01:241][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.15-18.00.01:241][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:241][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.15-18.00.01:241][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:241][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.15-18.00.01:241][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.15-18.00.01:242][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.15-18.00.01:242][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:243][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.15-18.00.01:243][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:243][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.15-18.00.01:243][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.12.15-18.00.01:245][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.15-18.00.01:245][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.15-18.00.01:245][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:245][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.15-18.00.01:245][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.12.15-18.00.01:247][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.15-18.00.01:247][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:247][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.15-18.00.01:247][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:247][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.15-18.00.01:247][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.12.15-18.00.01:248][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.15-18.00.01:248][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:248][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.15-18.00.01:248][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:248][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.15-18.00.01:248][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.12.15-18.00.01:249][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-18.00.01:250][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:250][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-18.00.01:250][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:250][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.15-18.00.01:250][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.12.15-18.00.01:251][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.15-18.00.01:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.15-18.00.01:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.15-18.00.01:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.12.15-18.00.01:253][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.15-18.00.01:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.15-18.00.01:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.15-18.00.01:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.15-18.00.01:254][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.15-18.00.01:254][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-18.00.01:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.15-18.00.01:254][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.12.15-18.00.01:256][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.15-18.00.01:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.15-18.00.01:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.15-18.00.01:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.15-18.00.01:257][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.15-18.00.01:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.15-18.00.01:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.15-18.00.01:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.12.15-18.00.01:259][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-18.00.01:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-18.00.01:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.15-18.00.01:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.12.15-18.00.01:260][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-18.00.01:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-18.00.01:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.15-18.00.01:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.15-18.00.01:262][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.15-18.00.01:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-18.00.01:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.15-18.00.01:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.15-18.00.01:264][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.15-18.00.01:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.15-18.00.01:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.15-18.00.01:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.15-18.00.01:265][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.15-18.00.01:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.15-18.00.01:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.15-18.00.01:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.12.15-18.00.01:267][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.15-18.00.01:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.15-18.00.01:267][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:267][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.15-18.00.01:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.15-18.00.01:269][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-18.00.01:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-18.00.01:269][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:269][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.15-18.00.01:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.12.15-18.00.01:271][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.15-18.00.01:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-18.00.01:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.15-18.00.01:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.15-18.00.01:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.15-18.00.01:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.12.15-18.00.01:420][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.15-18.00.01:423][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.12.15-18.00.01:451][  0]LogSlate: Took 0.000572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.15-18.00.01:452][  0]LogSlate: Took 0.000650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.15-18.00.01:454][  0]LogSlate: Took 0.000560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.15-18.00.01:574][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.12.15-18.00.01:625][  0]LogRenderer: Reallocating scene render targets to support 992x404 Format 10 NumSamples 1 (Frame:1).
+[2021.12.15-18.00.01:727][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.15-18.00.01:727][  0]LogLoad: (Engine Initialization) Total time: 20.33 seconds
+[2021.12.15-18.00.01:727][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.15-18.00.01:810][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.LadderAdvanced_359.LadderConnect)
+[2021.12.15-18.00.01:810][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.LadderAdvanced3_512.LadderConnect)
+[2021.12.15-18.00.01:811][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.15-18.00.01:827][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Content/' took 0.06s
+[2021.12.15-18.00.01:831][  1]LogAssetRegistry: Asset discovery search completed in 14.2831 seconds
+[2021.12.15-18.00.01:839][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.12.15-18.00.01:955][  3]LogSlate: Took 0.000880 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.15-18.00.02:775][ 38]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.15-18.00.08:706][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.12.15-18.00.08:755][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Walking.uasset: Failed to load '/Game/Mutant/body_mat': Can't find file.
+[2021.12.15-18.00.08:755][278]LoadErrors: Failed to load /Game/Mai/AnimationCharacter/Mutant_Walking.Mutant_Walking Referenced by Default__MutantTest_C
+[2021.12.15-18.00.08:755][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Walking.uasset: Failed to load '/Game/Mutant/body_mat': Can't find file.
+[2021.12.15-18.00.08:756][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Walking.uasset: Failed to load '/Game/AnimationCharacter/Mutant_Walking_Skeleton': Can't find file.
+[2021.12.15-18.00.08:756][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Walking.uasset: Failed to load '/Game/AnimationCharacter/Mutant_Walking_Skeleton': Can't find file.
+[2021.12.15-18.00.08:757][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Walking.uasset: Failed to load '/Game/Mutant/body_mat': Can't find file.
+[2021.12.15-18.00.08:757][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Walking.uasset: Failed to load '/Game/AnimationCharacter/Mutant_Walking_Skeleton': Can't find file.
+[2021.12.15-18.00.08:764][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Run.uasset: Failed to load '/Game/AnimationCharacter/Mutant_Walking_Skeleton': Can't find file.
+[2021.12.15-18.00.08:764][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Run.uasset: Failed to load '/Game/AnimationCharacter/Mutant_Walking_Skeleton': Can't find file.
+[2021.12.15-18.00.08:768][278]LogBlueprint: Error: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\MutantEnemy.uasset: [Compiler] Blendspace Player '(None)'  references an unknown blend space
+[2021.12.15-18.00.08:769][278]LogBlueprint: Error: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\MutantEnemy.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2021.12.15-18.00.08:780][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Run.uasset: Failed to load '/Game/AnimationCharacter/Mutant_Walking_Skeleton': Can't find file.
+[2021.12.15-18.00.08:780][278]LoadErrors: Failed to load /Game/AnimationCharacter/Mutant_Walking_Skeleton.Mutant_Walking_Skeleton Referenced by Mutant_Run
+[2021.12.15-18.00.08:782][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Walking.uasset: Failed to load '/Game/AnimationCharacter/Mutant_Walking_Skeleton': Can't find file.
+[2021.12.15-18.00.08:782][278]LoadErrors: Failed to load /Game/AnimationCharacter/Mutant_Walking_Skeleton.Mutant_Walking_Skeleton Referenced by Mutant_Walking
+[2021.12.15-18.00.08:783][278]LogLinker: Warning: [AssetLog] C:\Users\Darkflame\Downloads\Main\Gamede\Project\HorrorEngine NJ 4.27\Content\Mai\AnimationCharacter\Mutant_Walking.uasset: Failed to load '/Game/Mutant/body_mat': Can't find file.
+[2021.12.15-18.00.08:783][278]LoadErrors: Failed to load /Game/Mutant/body_mat.body_mat Referenced by Mutant_Walking
+[2021.12.15-18.00.08:833][278]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Mai/Map01.Map01
+[2021.12.15-18.00.08:834][278]Cmd: MAP LOAD FILE="../../../../../../Users/Darkflame/Downloads/Main/Gamede/Project/HorrorEngine NJ 4.27/Content/Mai/Map01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-18.00.08:834][278]LightingResults: New page: Lighting Build
+[2021.12.15-18.00.08:834][278]LoadErrors: New page: Loading map: Map01.umap
+[2021.12.15-18.00.08:836][278]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.LadderAdvanced_359.LadderConnect)
+[2021.12.15-18.00.08:836][278]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.LadderAdvanced3_512.LadderConnect)
+[2021.12.15-18.00.08:843][278]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.00.08:843][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.00.08:843][278]MapCheck: New page: Map Check
+[2021.12.15-18.00.08:843][278]LightingResults: New page: Lighting Build
+[2021.12.15-18.00.08:853][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.00.08:875][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.12.15-18.00.08:876][278]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map01'.
+[2021.12.15-18.00.08:878][278]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-18.00.08:878][278]LogAIModule: Creating AISystem for world Map01
+[2021.12.15-18.00.08:891][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.12.15-18.00.08:897][278]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-18.00.08:898][278]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2021.12.15-18.00.08:898][278]LogFileHelpers: Loading map 'Map01' took 0.064
+[2021.12.15-18.00.13:797][568]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mai/MutantTest.MutantTest
+[2021.12.15-18.00.14:048][568]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.12.15-18.00.15:141][568]LogSlate: Took 0.000511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.15-18.00.15:184][569]LogSlate: Took 0.000503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.15-18.00.17:411][695]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:454][698]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:472][699]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:488][700]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:503][701]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:520][702]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:537][703]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:553][704]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:570][705]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:587][706]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:603][707]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:620][708]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:637][709]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:654][710]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:670][711]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:687][712]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:704][713]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:727][714]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:741][715]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:757][716]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:773][717]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:790][718]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:807][719]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:824][720]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:854][721]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:900][723]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.17:917][724]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:725][789]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:762][790]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:774][791]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:791][792]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:807][793]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:824][794]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:841][795]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:864][796]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:890][797]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:905][798]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:921][799]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:938][800]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:954][801]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:971][802]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.19:988][803]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:006][804]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:022][805]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:041][806]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:056][807]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:072][808]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:090][809]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:105][810]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:106][810]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Textures/HUD/YouDied': Can't find file.
+[2021.12.15-18.00.20:107][810]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Textures/HUD/YouDied': Can't find file.
+[2021.12.15-18.00.20:107][810]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Textures/HUD/YouDied.YouDied'
+[2021.12.15-18.00.20:122][811]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:139][812]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:155][813]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:172][814]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:189][815]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:222][816]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:263][817]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:292][818]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:319][819]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:337][820]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:354][821]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:369][822]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:385][823]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:401][824]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:418][825]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:434][826]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:452][827]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:468][828]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:485][829]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:501][830]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:519][831]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:537][832]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:554][833]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:569][834]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:587][835]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:604][836]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:629][837]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:652][838]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:669][839]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:685][840]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:702][841]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:719][842]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:735][843]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:752][844]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:769][845]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:786][846]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:802][847]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:825][848]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:853][849]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:869][850]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:886][851]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:905][852]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:920][853]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:937][854]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:953][855]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:968][856]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.20:985][857]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:003][858]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:019][859]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:036][860]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:053][861]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:069][862]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:086][863]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:102][864]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:120][865]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:141][866]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:167][867]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:183][868]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:199][869]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:217][870]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:233][871]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:250][872]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:266][873]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:284][874]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:301][875]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:316][876]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:333][877]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:351][878]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:366][879]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:383][880]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:399][881]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:416][882]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:433][883]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:450][884]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:467][885]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:483][886]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:500][887]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:516][888]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:532][889]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:549][890]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:566][891]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:582][892]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:599][893]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:616][894]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:633][895]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:651][896]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:667][897]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:684][898]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:702][899]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:717][900]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:735][901]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:751][902]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:767][903]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:783][904]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:800][905]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:817][906]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:833][907]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:849][908]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:866][909]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:900][911]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:916][912]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:932][913]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:949][914]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:966][915]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.21:983][916]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:000][917]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:018][918]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:034][919]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:051][920]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:067][921]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:084][922]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:101][923]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:117][924]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:133][925]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:150][926]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:171][927]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:201][928]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:217][929]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:234][930]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:251][931]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:268][932]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:284][933]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:301][934]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:318][935]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:335][936]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:351][937]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:368][938]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:384][939]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:401][940]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:417][941]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:434][942]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:451][943]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:472][944]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:497][945]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:515][946]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:530][947]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:547][948]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:564][949]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:580][950]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:597][951]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:613][952]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:630][953]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:646][954]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:664][955]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:680][956]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:697][957]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:713][958]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:730][959]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:748][960]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:765][961]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:787][962]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:812][963]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:828][964]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:844][965]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:859][966]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:876][967]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:893][968]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:909][969]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:925][970]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:943][971]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:960][972]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:977][973]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.22:993][974]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.23:059][978]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.23:076][979]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.23:092][980]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.23:109][981]LogAnimation: Warning: SkeletalMesh Mutant_Walking has no skeleton. This needs to fixed before an animation can be set
+[2021.12.15-18.00.23:153][982]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mai/AnimationCharacter/MutantEnemy.MutantEnemy
+[2021.12.15-18.00.23:170][982]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.12.15-18.00.23:176][982]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.12.15-18.00.23:265][982]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.15-18.00.23:346][982]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.12.15-18.00.23:685][982]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.12.15-18.00.23:753][982]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.067 s
+[2021.12.15-18.00.23:753][982]LogOutputDevice: Error: === Handled ensure: ===
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: 
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 904]
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: Type mismatch: Expected MutantEnemy_C, Found AnimPreviewInstance
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: Stack: 
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb82e1d517 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb816def24 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb5540d24a UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb553f4d84 UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb6710f29b UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb7831b901 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb7831c1bd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb7831beea UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb55e860cd UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb55e862f0 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb55e72632 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb67b0d63d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb67acae40 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb67a2dd7c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb679ead97 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb67958944 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb67a38ca7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffb67a2df6b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffbaee52758 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffbaeeccad7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffbaeeb6203 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffbaeea9319 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffbb934bfff UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffbb93392b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffbb934e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffbb9334410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffc206ce7e8 USER32.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffc206ce229 USER32.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffbb934fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ff6bdc87621 UE4Editor.exe!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ff6bdca0fcc UE4Editor.exe!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ff6bdca10ba UE4Editor.exe!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ff6bdca40dd UE4Editor.exe!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ff6bdcb5984 UE4Editor.exe!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ff6bdcb853a UE4Editor.exe!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffc21ca7034 KERNEL32.DLL!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: [Callstack] 0x00007ffc21ea2651 ntdll.dll!UnknownFunction []
+[2021.12.15-18.00.23:754][982]LogOutputDevice: Error: 
